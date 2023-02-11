@@ -1,11 +1,11 @@
-# -Test-automation-framework-in-web-based-applications
+# Test-automation-framework-in-web-based-applications
 A framework that automates the web browser. The test cases were created using Selenium IDE and were run on the Jenkins Continuous Integration Pipeline. Jenkins was used to reliably build, test and deploy our test cases in one place using CI/CD Pipeline. A test report is also generated at the end of every test we automated using TestNG framework.
 
 TABLE OF CONTENTS
 
 Chapter No.              Topics                                                                                                            
 
-                         Summary                                                                         
+Chapter-0                Summary                                                                         
 Chapter-1                Introduction 	                   
 1.1                            General Introduction                                                                               
 1.2                            Problem Statement                                                                                  
@@ -44,7 +44,7 @@ Chapter-6                Findings, Conclusion, and Future Work
 6.2                             Conclusion                                                                                          
 6.3                             Future Work                                                                                         
 
-                                References                                                                                           
+Chapter-7                References                                                                                           
 
 SUMMARY
 Test Automation software is the best way to increase the effectiveness, efficiency and coverage of software testing. Manual testing can’t be repeated and extended, it is impossible to do so. Therefore, we shift to automation tests. Automated tests can be run over and over again at no additional cost and they are much faster than manual tests. Automated software testing can reduce the time to run repetitive tests from days to hours.
@@ -62,7 +62,7 @@ Manually repeating these tests is costly and time consuming. Once created, autom
 1.4   Empirical Study (Field Survey/Existing Tool/Survey/Experimental Study)
 The technological developments in big data infrastructure, analytics, and services allow firms to transform themselves into data-driven organizations. Moreover, big data helps companies to achieve higher performance like faster problem-solving issues that used to take years to be solved are now taking less time, hence saving the company various dollars and man-hours.
 For example)  If we have ten teams in our company each consisting of ten developers and each developer works on 10 features per day and runs their test scenarios and generates their reports. In that case we will have 100 scenarios per team and 1000 per day for the whole company. These  data are therefore large and the use of big data will allow us to save data processing time.
- For companies of all sizes, we  need a strategy for big data and a plan of how to collect, use, and protect it. Every firm needs to build capabilities to leverage big data in order to stay competitive.
+For companies of all sizes, we  need a strategy for big data and a plan of how to collect, use, and protect it. Every firm needs to build capabilities to leverage big data in order to stay competitive.
 
 1.5   Brief Description of the Solution Approach
 Automation of test cases is a highly efficient and a feasible alternative to manual testing and it is achieved with the help of a handful of tools and frameworks namely Selenium, Jenkins, Maven.
