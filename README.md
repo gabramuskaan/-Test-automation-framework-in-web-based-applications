@@ -75,7 +75,8 @@ All these things play a crucial role in the process of automation. Their role is
 In comparison to its counterparts like HP QTP, IBM RFT, TestComplete which are used for test automation but require a license, are very costly and work only with older versions of Windows; Selenium is open source, free of cost, has community support, supports a variety of operating systems like Windows, Linux & Mac and also supporters various languages like Java, C#, Ruby, Python, Perl & PHP.
 ![image](https://user-images.githubusercontent.com/124431862/218249748-ef862e1b-2c70-4be1-bdfd-0ef5b7fb42c0.png)
 
-Chapter-2:   Literature Survey	
+Chapter-2:   Literature Survey
+
 2.1   Summary of papers studied
 We have studied some research papers by different authors and the parts that  we have implemented in our project is on the basis of their findings. The literature we studied revolved around some basic ideas that are the backbone of the automation process that we see in the IT industry. We found studies discussing different frameworks and tools used in the automation process for example Selenium, Jenkins, Maven and GitHub. Finally we implemented all of these in our project in order to achieve our final goal that is an Automation Testing Framework for Java based applications.
 
